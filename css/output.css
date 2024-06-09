@@ -1371,6 +1371,10 @@ input:checked + .toggle-bg {
   margin-bottom: 2.5rem !important;
 }
 
+.mb-16 {
+  margin-bottom: 4rem !important;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem !important;
 }
@@ -1461,14 +1465,6 @@ input:checked + .toggle-bg {
 
 .mt-8 {
   margin-top: 2rem !important;
-}
-
-.mb-16 {
-  margin-bottom: 4rem !important;
-}
-
-.mt-12 {
-  margin-top: 3rem !important;
 }
 
 .box-border {
@@ -2736,6 +2732,10 @@ input:checked + .toggle-bg {
 
 .rounded-xl {
   border-radius: 0.75rem !important;
+}
+
+.rounded-none {
+  border-radius: 0px !important;
 }
 
 .rounded-b {
