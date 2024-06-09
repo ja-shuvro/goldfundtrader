@@ -1463,6 +1463,14 @@ input:checked + .toggle-bg {
   margin-top: 2rem !important;
 }
 
+.mb-16 {
+  margin-bottom: 4rem !important;
+}
+
+.mt-12 {
+  margin-top: 3rem !important;
+}
+
 .box-border {
   box-sizing: border-box !important;
 }
@@ -3905,6 +3913,12 @@ input:checked + .toggle-bg {
   transition-duration: 150ms !important;
 }
 
+.transition-colors {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke !important;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) !important;
+  transition-duration: 150ms !important;
+}
+
 .transition-opacity {
   transition-property: opacity !important;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) !important;
@@ -3913,12 +3927,6 @@ input:checked + .toggle-bg {
 
 .transition-transform {
   transition-property: transform !important;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) !important;
-  transition-duration: 150ms !important;
-}
-
-.transition-colors {
-  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke !important;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) !important;
   transition-duration: 150ms !important;
 }
