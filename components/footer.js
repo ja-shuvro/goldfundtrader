@@ -13,7 +13,7 @@ document.getElementById("footer-section").innerHTML = `
                     aria-current="page"
                     class="nav-logo-link w-inline-block c-logo-text"
                     > 
-                    <img src="/img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-[100px]">
+                    <img src="./img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-[100px]">
                     </a
                   >
                   <p class="paragraph-regular-8">
