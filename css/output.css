@@ -1720,6 +1720,14 @@ input:checked + .toggle-bg {
   width: 100% !important;
 }
 
+.w-\[100px\] {
+  width: 100px !important;
+}
+
+.w-16 {
+  width: 4rem !important;
+}
+
 .min-w-60 {
   min-width: 15rem !important;
 }
@@ -2730,12 +2738,12 @@ input:checked + .toggle-bg {
   border-radius: 0.5rem !important;
 }
 
-.rounded-xl {
-  border-radius: 0.75rem !important;
-}
-
 .rounded-none {
   border-radius: 0px !important;
+}
+
+.rounded-xl {
+  border-radius: 0.75rem !important;
 }
 
 .rounded-b {

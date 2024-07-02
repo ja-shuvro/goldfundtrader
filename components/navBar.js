@@ -16,7 +16,7 @@ class="navigation w-nav"
       aria-current="page"
       class="nav-logo-link w-inline-block w--current c-logo-text"
     >
-      Gold Fund Trader
+      <img src="/img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-16">
     </a>
     <nav role="navigation" class="nav-menu w-nav-menu">
       <a href="affiliate-program.html" class="nav-link w-nav-link"

@@ -12,7 +12,9 @@ document.getElementById("footer-section").innerHTML = `
                     href="index.html"
                     aria-current="page"
                     class="nav-logo-link w-inline-block c-logo-text"
-                    >Gold Fund Trader</a
+                    > 
+                    <img src="/img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-[100px]">
+                    </a
                   >
                   <p class="paragraph-regular-8">
                     Make The Smart Choice when choosing your next prop firm!
