@@ -19,28 +19,22 @@ class="navigation w-nav"
       <img src="./img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-16">
     </a>
     <nav role="navigation" class="nav-menu w-nav-menu">
-      <a href="affiliate-program.html" class="nav-link w-nav-link"
-        >Affiliate Program</a
-      ><a
+      <a href="trading-rules.html" class="nav-link w-nav-link"
+        >Trading Rules</a
+      >
+      <a href="challenge.html" class="nav-link w-nav-link"
+        >Challenge</a
+      >
+      <a
         href="./faqs.html"
         class="nav-link w-nav-link"
         >FAQs</a
-      ><a href="about.html" class="nav-link w-nav-link">About</a
-      ><a
-        href="charity.html"
-        aria-current="page"
-        class="nav-link w-nav-link"
-        >Giving Back</a
-      ><a href="payouts.html" class="nav-link w-nav-link">Payouts</a
-      ><a href="blog.html" class="nav-link w-nav-link">Blog</a
-      ><a href="testimonials.html" class="nav-link w-nav-link"
-        >Testimonials</a
-      ><a href="contact-us.html" class="nav-link w-nav-link"
-        >Contact Us</a
-      ><a
+      ><a href="about.html" class="nav-link w-nav-link">About Us</a
+      >
+      <a
         href="./auth/Account/login/index.html"
         class="nav-link responsive w-nav-link"
-        >Login</a
+        >Buy Challenge</a
       >
     </nav>
   </div>
@@ -166,7 +160,7 @@ class="navigation w-nav"
             />
           </svg>
         </div>
-        <div>Login</div></a
+        <div>Buy Challenge</div></a
       ><a
         href="./auth/Account/register/index.html"
         target="_blank"
@@ -176,7 +170,7 @@ class="navigation w-nav"
             <div class="button-1_color _1"></div>
             <div class="button-1_color _3"></div>
             <div class="button-1_color _2"></div>
-            <div class="label">Get Started</div>
+            <div class="label">Client Area</div>
             <div class="icon-regular-2 w-embed">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

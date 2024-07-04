@@ -12950,6 +12950,31 @@ a {
 }
 
 /* Homepage, Package section  */
-/* .p-heading div span {
-  color: (--color--colorone);
-} */
+.custom-button {
+  border: 1px solid #bf9306 !important;
+  border-radius: 50px !important;
+  padding: 10px 55px !important;
+  font-size: 18px;
+  font-weight: 800;
+  color: #fff !important;
+  outline: none;
+}
+.main-pricing-btn.active-button {
+  background: #bf9306;
+}
+.after-custom-button,
+.silver-custom-button,
+.gold-custom-button {
+  border: none !important;
+  border-radius: none !important;
+  padding: 10px 25px !important;
+  font-size: 14px;
+  font-weight: 800;
+  outline: none;
+}
+.after-main-price-btn.active-button,
+.silver-main-price-btn.active-button,
+.gold-main-price-btn.active-button {
+  border-bottom: 1px solid #bf9306 !important;
+  color: #bf9306 !important;
+}

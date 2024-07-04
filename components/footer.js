@@ -165,7 +165,7 @@ document.getElementById("footer-section").innerHTML = `
                       class="footer-text-link"
                       >Evaluations</a
                     ><a href="affiliate-program.html" class="footer-text-link"
-                      >Afffiliate Program</a
+                      >Trading Rules</a
                     >
                   </div>
                 </div>
