@@ -18,7 +18,12 @@ class="navigation w-nav"
     >
       <img src="./img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-16">
     </a>
-    <nav role="navigation" class="nav-menu w-nav-menu">
+
+  </div>
+      <nav role="navigation" class="nav-menu w-nav-menu">
+      <a href="affliate-program.html" class="nav-link w-nav-link"
+        >Affliate Program</a
+      >
       <a href="trading-rules.html" class="nav-link w-nav-link"
         >Trading Rules</a
       >
@@ -37,7 +42,6 @@ class="navigation w-nav"
         >Buy Challenge</a
       >
     </nav>
-  </div>
   <div class="nav-button-group">
     <div
       data-hover="true"

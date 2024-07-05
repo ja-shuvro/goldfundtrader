@@ -7122,6 +7122,7 @@ a {
   align-items: center;
   display: flex;
   position: relative;
+  margin-left: 5rem;
 }
 .button-outline-m {
   grid-column-gap: 4px;
@@ -7839,7 +7840,7 @@ a {
   height: 24px;
   display: flex;
 }
-.social-link-border {
+/* .social-link-border {
   color: #030711;
   border-radius: 50px;
   padding: 8px;
@@ -7848,7 +7849,7 @@ a {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10.4px);
   -webkit-backdrop-filter: blur(10.4px);
-}
+} */
 .social-link-border:hover {
   border-color: var(--color--colortwo);
   color: var(--z-all--orange);
