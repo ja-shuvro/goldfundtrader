@@ -10,13 +10,16 @@ role="banner"
 class="navigation w-nav"
 >
 <div class="nav-container">
-  <div class="nav-wrapper">
+  <div class="nav-wrapper w-48 flex items-center justify-center">
     <a
       href="index.html"
       aria-current="page"
-      class="nav-logo-link w-inline-block w--current c-logo-text"
+      class="nav-logo-link w-inline-block w--current flex items-center justify-center flex-col text-center mt-24 w-full "
     >
       <img src="./img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-16">
+      <span class="text-xl font-semibold text-yellow-400 text-[#D2AE3B]">Gold Fund</span>
+      <span class="text-[#D2AE3B]">Trader</span>
+      
     </a>
 
   </div>
@@ -39,7 +42,7 @@ class="navigation w-nav"
       <a
         href="./auth/Account/login/index.html"
         class="nav-link responsive w-nav-link"
-        >Buy Challenge</a
+        >Buy</a
       >
     </nav>
   <div class="nav-button-group">
@@ -164,7 +167,7 @@ class="navigation w-nav"
             />
           </svg>
         </div>
-        <div>Buy Challenge</div></a
+        <div>Buy</div></a
       ><a
         href="./auth/Account/register/index.html"
         target="_blank"
