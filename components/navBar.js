@@ -10,15 +10,15 @@ role="banner"
 class="navigation w-nav"
 >
 <div class="nav-container">
-  <div class="nav-wrapper w-48 flex items-center justify-center">
+  <div class="nav-wrapper md:w-48 flex items-center justify-center">
     <a
       href="index.html"
       aria-current="page"
-      class="nav-logo-link w-inline-block w--current flex items-center justify-center flex-col text-center mt-24 w-full "
+      class="nav-logo-link w-inline-block w--current flex items-center justify-center flex-col text-center mt-12 md:mt-24 w-full "
     >
-      <img src="./img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-16">
-      <span class="text-xl font-semibold text-yellow-400 text-[#D2AE3B]">Gold Fund</span>
-      <span class="text-[#D2AE3B]">Trader</span>
+      <img src="./img/gold_fund.png" alt="Gold Fun Trader" srcset="" class="w-12 md:w-16">
+      <span class=" text-lg md:text-xl font-semibold text-yellow-400 text-[#D2AE3B]">Gold Fund</span>
+      <span class="text-[#D2AE3B] text-sm md:text-base">Trader</span>
       
     </a>
 

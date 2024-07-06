@@ -794,3 +794,17 @@ img {
     ),
     url(../img/childrens.jpg);
 }
+
+.checkout-button {
+  border: 1px solid #e3a008;
+  transition-duration: 300ms;
+}
+.checkout-button:hover {
+  background-color: #e3a008;
+  color: #fff !important;
+  /* border-color: ; */
+}
+.checkout-button.active-button {
+  background-color: #e3a008;
+  color: #fff !important;
+}
