@@ -353,6 +353,10 @@ img {
   width: 100%;
 }
 
+.discord-card .each-card .bottom {
+  display: none;
+}
+
 .discord-card .each-card h3 {
   display: flex;
   justify-content: flex-start;

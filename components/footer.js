@@ -217,67 +217,33 @@ document.getElementById("footer-section").innerHTML = `
               </div>
             </div>
             <div class="disclaimier_footer">
-              <strong>Disclaimer:</strong> Gold Fund Trader offers clients
-              access exclusively to demo accounts within a simulated trading
-              environment. Additionally, the services offered are aimed at
-              assessing professional skills. The results of these services are
-              directly related to each individual&#x27;s professional skill
-              level and their capacity to follow the program guidelines and
-              objectives detailed for each service. We encourage clients to
-              conduct a comprehensive review of the program requirements before
-              enrolling in any services.<br /><strong
-                >Disclosure on Hypothetical Performance:</strong
-              >
-              <br />The accounts utilized for our services are demo accounts.
-              Hypothetical performance results come with inherent limitations,
-              among which include the fact that they do not reflect actual
-              trading. No claim is made that any account will achieve or is
-              likely to achieve profits or losses comparable to those discussed;
-              in reality, actual results can significantly differ from those
-              predicted by hypothetical performance. Hypothetical performance
-              often benefits from hindsight, does not account for financial
-              risk, and cannot consider the financial risk in actual trading.
-              For instance, the capacity to endure losses or to stick to a
-              trading plan despite losses are crucial factors that can
-              negatively impact real trading results. Many other market factors
-              or aspects of implementing a specific trading program not
-              accounted for in hypothetical performance preparation can also
-              adversely affect actual trading results. Please be aware that we
-              do not offer specific investment advice, business consulting,
-              analysis of investment opportunities, or any general
-              recommendations on trading investment instruments. Trading in
-              financial markets carries a high level of risk, and we advise
-              against risking more than you can afford to lose.<br />All
-              information on this site is intended solely for educational
-              purposes related to trading on financial markets and does not
-              serve in any way as investment advice or recommendations. Gold Fund Trader LLC does not provide any of the investment services
-              listed in the Capital Market Undertakings Act No. 256/2004 Coll.
-              The information on this site is not specific to residents in any
-              country or jurisdiction where such distribution or use would be
-              contrary to local laws or regulations. Gold Fund Trader LLC is not
-              a broker/dealer and we accept no financial deposits. The website
-              <a target="_blank" href="index.html">goldfundtrader.com</a> is
-              owned and operated by Gold Fund Trader LLC, a US company
-              registered at 5830 E. 2nd Street, Casper, WY 82609.
+              None of the information provided by the Company or found here is intended as (a)
+              investment advice, (b) an offer or solicitation of an offer to buy or sell, or (c) a
+              recommendation, endorsement, or sponsorship of any security, company, or fund.
+              Testimonials appearing may not represent other clients or customers and are not a
+              guarantee of future performance or success. Gold Fund Trader is not a broker and
+              does not accept client deposits. All program fees are used for operational costs,
+              including but not limited to staff, technology, and other business-related expenses.
+              Gold Fund Trader itself does not carry out any regulated activities. Our exclusive
+              activity is trading education, and therefore, authorization by the regulatory authority
+              is not required.
+              </br></br>
+              <div class="flex gap-4">
+                <a href="#" class="footer-text-link">Terms & Conditions</a>
+                <a href="#" class="footer-text-link">Refund Policy</a>
+                <a href="#" class="footer-text-link">Privacy Policy</a>
+              </div>
+              </br>
+              ©Gold Fund Trader 2024. All rights reserved. the only exclusive activity we carry out
+ is trading education, and consequently, it is not required to be authorized by the
+ regulatory authority.
+              </br>
+
+              <p class="w-full text-center mt-6">©Gold Fund Trader 2024. All rights reserved</p>
             </div>
           </div>
         </section>
-        <section class="section-legal">
-          <div class="legal-container">
-            <div class="footnote">
-              ©2024 Gold Fund Trader LLC - All Rights Reserved.
-            </div>
-            <div class="legal-link-grid">
-              <a href="privacy-policy.html" class="footnote text-color-gray-600"
-                >Privacy Policy</a
-              ><a href="refund-policy.html" class="footnote text-color-gray-600"
-                >Refund Policy</a
-              ><a href="terms-of-use.html" class="footnote text-color-gray-600"
-                >Terms and Conditions</a
-              >
-            </div>
-          </div>
-        </section>
+        
       </div>
     </div>
 

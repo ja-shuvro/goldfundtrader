@@ -30,9 +30,6 @@ class="navigation w-nav"
       <a href="trading-rules.html" class="nav-link w-nav-link"
         >Trading Rules</a
       >
-      <a href="challenge.html" class="nav-link w-nav-link"
-        >Challenge</a
-      >
       <a
         href="./faqs.html"
         class="nav-link w-nav-link"
